@@ -1,6 +1,6 @@
- Salut, je suis LASANTSY Eddit Ornellio !
-Développeur Full-Stack | Étudiant en Master 2 Informatique
-Passionné par le développement d'applications modernes et l'innovation technologique, je suis actuellement étudiant en Master 2 à l'École Nationale d'Informatique de Madagascar, avec une expertise en développement Full-Stack.
+Bonjour, je suis LASANTSY Eddit Ornellio !
+Développeur Full-Stack | ingénieur en informatique
 
-N'hésitez pas à explorer mes repositories et à me contacter pour des collaborations ! 
+Passionné par le développement d’applications modernes et l’innovation technologique, je possède une expertise en développement Full-Stack acquise à travers mes années d'études et projets professionnels et personnels. Je suis motivé par la création de solutions performantes et innovantes, et j’aime collaborer sur des projets stimulants qui combinent technologie et créativité.
 
+ N’hésitez pas à me contacter pour des collaborations professionnelles ou techniques.
